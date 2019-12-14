@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.AmazonPOC.testcases.TC001_BuyProduct"/>
+      <class name="org.amazon.testcases.TC001_BuyProduct"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
